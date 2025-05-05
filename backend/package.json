@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "galileo": "^1.8.0",
+    "openai": "^4.97.0"
+  }
+}
